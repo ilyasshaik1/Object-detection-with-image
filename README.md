@@ -33,7 +33,9 @@ pip install opencv-python-headless
 ![image](https://github.com/user-attachments/assets/cc24de5a-6178-449b-b089-d90f3126085f)
 
 
-Licensing
-MobileNet-SSD model: Licensed under the Apache 2.0 License.
-COCO dataset: Licensed under CC BY 4.0 License.
-This project: Licensed under the MIT License.
+### Explanation of Licensing Links:
+1. **MobileNet-SSD model**: The model is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). This link points to the official Apache Software Foundation license page for detailed terms.
+2. **COCO dataset**: The COCO dataset is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/). This is the official link to the Creative Commons Attribution 4.0 International License.
+3. **This project**: Your project is licensed under the [MIT License](https://opensource.org/licenses/MIT). The link points to the official MIT License description.
+
+These links will guide users to the relevant license terms for each component, ensuring proper attribution and use of the models and datasets.
