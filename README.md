@@ -23,9 +23,13 @@ pip install opencv-python-headless
 
 
 ├── MobileNetSSD_deploy.caffemodel      # Pre-trained MobileNet-SSD model weights
+
 ├── MobileNetSSD_deploy.prototxt        # Model architecture
+
 ├── main.py                            # Python script to run object detection on image
+
 ├── README.md                          # Project documentation
+
 
 
 ![image](https://github.com/user-attachments/assets/3bd6f340-4605-4f50-9aa6-0a17854517cb)
